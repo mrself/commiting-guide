@@ -30,3 +30,4 @@ Possible variants:
   - **fix**
   - **clean**: remove unnecessary code
   - **feat**
+  - **chore**: unnesessary edits. In most cases this type fits when no other type could be selected
