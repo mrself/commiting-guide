@@ -33,3 +33,4 @@ Possible variants:
   - **chore**: unnesessary edits. In most cases this type fits when no other type could be selected
   - **change**: changing existing feature. E.g editing text, changing style
   - **enhance**: enhancment of existing featrue. Add some new useful functionality
+  - **style**: formatting
